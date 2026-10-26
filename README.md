@@ -225,7 +225,7 @@
             <div class="lineage-frame p-4 rounded-xl text-center border-amber-900/40">
                 <div class="text-xs text-gray-400 mb-1">魔法爆擊 (Magic Crit)</div>
                 <div class="text-xl sm:text-2xl font-black text-amber-400 font-cinzel">555 %</div>
-                <div class="text-xs text-amber-300/80 mt-1">極致核彈級輸出</div>
+                <div class="text-xs text-amber-300/80 mt-1">極致輸出</div>
             </div>
             <!-- Card 6 -->
             <div class="lineage-frame p-4 rounded-xl text-center border-amber-900/40">
@@ -377,7 +377,7 @@
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm text-gray-300">
                         <div class="flex items-start gap-2 bg-zinc-900/50 p-2.5 rounded-lg border border-zinc-800">
                             <i class="fa-solid fa-circle-check text-emerald-400 mt-0.5"></i>
-                            <span><strong class="text-amber-200">雙神魂天花板：</strong>變身與娃娃皆為 T1粉滿 + T2各兩隻。</span>
+                            <span><strong class="text-amber-200">十粉：</strong>變身與娃娃皆為 T1粉滿 + T2各兩隻。</span>
                         </div>
                         <div class="flex items-start gap-2 bg-zinc-900/50 p-2.5 rounded-lg border border-zinc-800">
                             <i class="fa-solid fa-circle-check text-emerald-400 mt-0.5"></i>
@@ -389,7 +389,7 @@
                         </div>
                         <div class="flex items-start gap-2 bg-zinc-900/50 p-2.5 rounded-lg border border-zinc-800">
                             <i class="fa-solid fa-circle-check text-emerald-400 mt-0.5"></i>
-                            <span><strong class="text-amber-200">全服名列前茅：</strong>PVP排名全服第2，黑市總7~8名/職業第2。</span>
+                            <span><strong class="text-amber-200">全服排名：</strong>PVP排名第2，黑市總7~8名/職業第2。</span>
                         </div>
                     </div>
                 </div>
